@@ -1,7 +1,7 @@
 import pygame
 from random import randrange as rnd
 
-WIDTH, HEIGHT = 1200, 800
+WIDTH, HEIGHT = 1200, 700
 fps = 60
 # paddle settings
 paddle_w = 330
